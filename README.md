@@ -1,4 +1,4 @@
-# PDF-to-XLSX
+# PDF-to-CSV
 
 A small python script that helps in extracting pdf line-by-line to a .csv file. 
 
